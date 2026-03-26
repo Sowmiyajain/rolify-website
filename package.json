@@ -1,0 +1,13 @@
+{
+  "name": "rolify-website",
+  "version": "1.0.0",
+  "description": "Rolify job board website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1"
+  }
+}
